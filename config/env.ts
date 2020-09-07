@@ -12,8 +12,8 @@ module.exports = {
     MODE: 'testing',
     API_TARGETS: [
       {
-        base: ['/nchannel'],
-        target: 'http://test-web01.nn.com',
+        base: ['/api'],
+        target: 'http://zhongfumin.com',
       },
     ],
   },
